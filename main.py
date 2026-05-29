@@ -44,8 +44,8 @@ CONFIG = {
     "attendance_cooldown": 1800,
 }
 
-TELEGRAM_TOKEN   = "8726124944:AAFopKdQ1Es7f4uMf-5vMaGcwpDWzPa80kk"
-TELEGRAM_CHAT_ID = "5639274988"
+TELEGRAM_TOKEN   = "your_token_here"
+TELEGRAM_CHAT_ID = "your_chat_id_here"
 
 GREEN = (0, 255, 100)
 RED   = (0, 60, 255)
